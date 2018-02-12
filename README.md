@@ -1,2 +1,2 @@
-# Khan-Academy-Projects
-This is where I am going to store all of my khan academy projects. 
+# Khan-Academy-CSS-HTML-Projects
+This is where I am going to store all of my CSS or HTML projects from Khan Academy.
